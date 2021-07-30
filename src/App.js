@@ -37,3 +37,13 @@ function App() {
 }
 
 export default App;
+
+/**
+ * 1. imports react
+ * 2. imports App.css
+ * 3. imports Person component from Person.js
+ * 
+ * 6. returns 4 references to Person component with different props passed into each
+ * 
+ * 39. exports App
+ */
