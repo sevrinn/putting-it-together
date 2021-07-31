@@ -15,3 +15,17 @@ const Person = (props) => {
 }
 
 export default Person;
+
+/**
+ * 1. imports react and useState
+ * 
+ * 3. Creates Person compnent with props
+ * 4. Destructures the props
+ * 5. Initializes useState state of ageState variable to equal the age passed in by props
+ * 
+ * 7. Person returns html structure with props plugged in
+ * 12. Button has onClick synthetic event attached to it. an anonymous function
+ *       runs everytime the button is clicked. the function setsStateAge to stateAge plus 1 
+ *       (incrementing the age)
+ * 17. export Person component
+ */
