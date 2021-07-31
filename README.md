@@ -7,4 +7,10 @@ This one was tough but only becasue i forgot to replace the age variable with st
 Learned about hooks in general and specifically useState.
 React is complicated but pretty cool! :0
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+There were 3 objectives for this assignment
+
+- Create a state variable to hold age of person (passed through props)
+- Create botton that increases a persons age by 1 when clicked
+- Display current value of age from state
+
+<img src="screenshot.GIF" alt="Gif of working rendered assignment" width="300"/>
